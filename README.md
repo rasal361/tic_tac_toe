@@ -80,7 +80,3 @@ tic-tac-toe/
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) — Code formatting
 
 ---
-
-## License
-
-This project is open source and free to use.
